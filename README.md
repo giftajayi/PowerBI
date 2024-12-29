@@ -1,5 +1,5 @@
 # PowerBI Dashboard Links
 
-Students Dashboard: https://app.powerbi.com/groups/me/reports/45aa236c-dbe6-4762-9292-d84097d061dd/cda73992e5189026e0f0?experience=power-bi
+Students Dashboard: https://app.powerbi.com/view?r=eyJrIjoiOTQ5NTU2ZjctODM2Zi00MzZhLTgxYjQtZGNjOTY4YWFlOTYyIiwidCI6IjE3MjhiMjgzLTlhYWItNDhiNi04YjAwLTI2OTQxYTI5MzkxMCJ9
 
-Vehicle Transmission Classifier Dashboard: https://app.powerbi.com/groups/me/reports/1f1b2958-0cff-43b1-a360-611369393863/ReportSection?experience=power-bi
+Vehicle Transmission Classifier Dashboard:https://app.powerbi.com/view?r=eyJrIjoiZjA4NTBlZTctMGJiOC00NWM5LWJkNzYtOGQ3YjZlOTdlNmM2IiwidCI6IjE3MjhiMjgzLTlhYWItNDhiNi04YjAwLTI2OTQxYTI5MzkxMCJ9
