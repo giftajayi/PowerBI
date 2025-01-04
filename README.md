@@ -3,6 +3,8 @@ Vancouver Cime and Population Dashboard: https://app.powerbi.com/view?r=eyJrIjoi
 
 Mall Clustering Dashboard: https://app.powerbi.com/reportEmbed?reportId=c80b18bb-f01e-4390-9e8b-a65b9edc4602&autoAuth=true&ctid=1728b283-9aab-48b6-8b00-26941a293910
 
+Laptop Data Report: https://app.powerbi.com/view?r=eyJrIjoiNWRiZGFlYTEtM2FjOC00NjFiLWI3ZjQtMzAyMTllN2MyYzYxIiwidCI6IjE3MjhiMjgzLTlhYWItNDhiNi04YjAwLTI2OTQxYTI5MzkxMCJ9
+
 Students Dashboard: https://app.powerbi.com/view?r=eyJrIjoiOTQ5NTU2ZjctODM2Zi00MzZhLTgxYjQtZGNjOTY4YWFlOTYyIiwidCI6IjE3MjhiMjgzLTlhYWItNDhiNi04YjAwLTI2OTQxYTI5MzkxMCJ9
 
 Vehicle Transmission Classifier Dashboard:https://app.powerbi.com/view?r=eyJrIjoiZjA4NTBlZTctMGJiOC00NWM5LWJkNzYtOGQ3YjZlOTdlNmM2IiwidCI6IjE3MjhiMjgzLTlhYWItNDhiNi04YjAwLTI2OTQxYTI5MzkxMCJ9
