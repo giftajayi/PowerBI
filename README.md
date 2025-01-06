@@ -3,9 +3,9 @@ Canada Weather Report: https://app.powerbi.com/view?r=eyJrIjoiZjllOTEwNTMtM2U5My
 
 Vancouver Cime and Population Dashboard: https://app.powerbi.com/view?r=eyJrIjoiN2Q0MDlmZWEtN2E1ZS00Y2JiLTkwODctNTlhMjE2MmRiZGNkIiwidCI6IjE3MjhiMjgzLTlhYWItNDhiNi04YjAwLTI2OTQxYTI5MzkxMCJ9
 
-Mall Clustering Dashboard: https://app.powerbi.com/reportEmbed?reportId=c80b18bb-f01e-4390-9e8b-a65b9edc4602&autoAuth=true&ctid=1728b283-9aab-48b6-8b00-26941a293910
-
 Laptop Data Report: https://app.powerbi.com/view?r=eyJrIjoiNWRiZGFlYTEtM2FjOC00NjFiLWI3ZjQtMzAyMTllN2MyYzYxIiwidCI6IjE3MjhiMjgzLTlhYWItNDhiNi04YjAwLTI2OTQxYTI5MzkxMCJ9
+
+Mall Clustering Dashboard: https://app.powerbi.com/reportEmbed?reportId=c80b18bb-f01e-4390-9e8b-a65b9edc4602&autoAuth=true&ctid=1728b283-9aab-48b6-8b00-26941a293910
 
 Students Dashboard: https://app.powerbi.com/view?r=eyJrIjoiOTQ5NTU2ZjctODM2Zi00MzZhLTgxYjQtZGNjOTY4YWFlOTYyIiwidCI6IjE3MjhiMjgzLTlhYWItNDhiNi04YjAwLTI2OTQxYTI5MzkxMCJ9
 
