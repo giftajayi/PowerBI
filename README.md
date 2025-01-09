@@ -7,7 +7,7 @@ Sales Report: https://app.powerbi.com/view?r=eyJrIjoiNzlmYTdhZWUtN2VjNS00ZjA1LWF
 
 Laptop Data Report: https://app.powerbi.com/view?r=eyJrIjoiNWRiZGFlYTEtM2FjOC00NjFiLWI3ZjQtMzAyMTllN2MyYzYxIiwidCI6IjE3MjhiMjgzLTlhYWItNDhiNi04YjAwLTI2OTQxYTI5MzkxMCJ9
 
-Mall Clustering Dashboard: https://app.powerbi.com/reportEmbed?reportId=c80b18bb-f01e-4390-9e8b-a65b9edc4602&autoAuth=true&ctid=1728b283-9aab-48b6-8b00-26941a293910
+Mall Clustering Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMDlhOGY0MGMtOTkzOC00ZGVhLWI0N2ItMmY3MDI5NzBiYjQ4IiwidCI6IjE3MjhiMjgzLTlhYWItNDhiNi04YjAwLTI2OTQxYTI5MzkxMCJ9
 
 Students Dashboard: https://app.powerbi.com/view?r=eyJrIjoiOTQ5NTU2ZjctODM2Zi00MzZhLTgxYjQtZGNjOTY4YWFlOTYyIiwidCI6IjE3MjhiMjgzLTlhYWItNDhiNi04YjAwLTI2OTQxYTI5MzkxMCJ9
 
