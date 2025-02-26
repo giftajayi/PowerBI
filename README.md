@@ -5,6 +5,8 @@ Vancouver Cime and Population Dashboard: https://app.powerbi.com/view?r=eyJrIjoi
 
 Sales Report: https://app.powerbi.com/view?r=eyJrIjoiNzlmYTdhZWUtN2VjNS00ZjA1LWFiYmMtYjJiZTQzYzY5Mjc1IiwidCI6IjE3MjhiMjgzLTlhYWItNDhiNi04YjAwLTI2OTQxYTI5MzkxMCJ9
 
+IFSSA Dashboard: https://app.powerbi.com/view?r=eyJrIjoiYjc1OTA4ZWItZTg4OS00ZmE0LTgxNjEtNDY0MmI2MTdiNjgyIiwidCI6IjE3MjhiMjgzLTlhYWItNDhiNi04YjAwLTI2OTQxYTI5MzkxMCJ9
+
 Laptop Data Report: https://app.powerbi.com/view?r=eyJrIjoiNWRiZGFlYTEtM2FjOC00NjFiLWI3ZjQtMzAyMTllN2MyYzYxIiwidCI6IjE3MjhiMjgzLTlhYWItNDhiNi04YjAwLTI2OTQxYTI5MzkxMCJ9
 
 Mall Clustering Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMDlhOGY0MGMtOTkzOC00ZGVhLWI0N2ItMmY3MDI5NzBiYjQ4IiwidCI6IjE3MjhiMjgzLTlhYWItNDhiNi04YjAwLTI2OTQxYTI5MzkxMCJ9
