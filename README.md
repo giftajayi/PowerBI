@@ -1,4 +1,4 @@
-# PowerBI Dashboard Links
+# Power BI Dashboard Links
 Canada Weather Report: https://app.powerbi.com/view?r=eyJrIjoiZjllOTEwNTMtM2U5My00YmVjLTgwYTktOWQ2YWNkNzQ4NTFmIiwidCI6IjE3MjhiMjgzLTlhYWItNDhiNi04YjAwLTI2OTQxYTI5MzkxMCJ9
 
 Vancouver Cime and Population Dashboard: https://app.powerbi.com/view?r=eyJrIjoiN2Q0MDlmZWEtN2E1ZS00Y2JiLTkwODctNTlhMjE2MmRiZGNkIiwidCI6IjE3MjhiMjgzLTlhYWItNDhiNi04YjAwLTI2OTQxYTI5MzkxMCJ9
